@@ -1,8 +1,10 @@
 body {
     padding: 0;
     margin: 0;
-    background: rgb(131,127,193);
-    background: linear-gradient(90deg, rgba(131,127,193,1) 0%, rgba(171,171,247,1) 45%, rgba(133,178,187,1) 100%);
+    background: linear-gradient(90deg, rgba(12,10,48,1) 0%, rgba(7,19,54,1) 33%, rgba(47,144,198,1) 100%);
+    background-image: url(https://img.freepik.com/free-photo/young-muscular-athlete-practicing-gym-with-weights_155003-35492.jpg?t=st=1669524217~exp=1669524817~hmac=defac1d00ede686ec58c286464186c26b81bac5794d3299792926abbe165aa37);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .container {
@@ -12,7 +14,6 @@ body {
     background-color: white;
     opacity: 0.7;
     border-radius: 50px;
-    margin-left: 30px;
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
